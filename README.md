@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Nirvan M — Machine Learning & Deep Learning Engineer | Data Analytics" width="100%"/>
+<img src="hero.svg" alt="Nirvan M — Machine Learning & Deep Learning Engineer | Data Analytics" width="100%"/>
 
 <br/>
 
@@ -36,7 +36,7 @@ Python / Data → Machine Learning → Computer Vision → Industrial AI → Aut
 ## `02` · How I build
 
 <div align="center">
-<img src="assets/pipeline.svg" alt="Animated pipeline: camera, vision engine, detection, analysis, automation, insights" width="100%"/>
+<img src="pipeline.svg" alt="Animated pipeline: camera, vision engine, detection, analysis, automation, insights" width="100%"/>
 </div>
 
 <br/>
@@ -44,7 +44,7 @@ Python / Data → Machine Learning → Computer Vision → Industrial AI → Aut
 ## `03` · Tech stack
 
 <div align="center">
-<img src="assets/stack.svg" alt="Tech stack: Python, SQL, OpenCV, YOLO, Power BI, FastAPI, n8n and more" width="100%"/>
+<img src="stack.svg" alt="Tech stack: Python, SQL, OpenCV, YOLO, Power BI, FastAPI, n8n and more" width="100%"/>
 </div>
 
 <br/>
@@ -116,11 +116,11 @@ Python / Data → Machine Learning → Computer Vision → Industrial AI → Aut
 ## `06` · Contribution graph, in 3D
 
 <div align="center">
-<img src="profile-3d-contrib/profile-night-rainbow.svg" alt="3D GitHub contribution graph" width="100%"/>
+<img src="contrib-3d.svg" alt="3D GitHub contribution graph" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img src="assets/footer.svg" alt="Let's build something useful." width="100%"/>
+<img src="footer.svg" alt="Let's build something useful." width="100%"/>
 </div>
