@@ -4,8 +4,8 @@
 
 <br/>
 
-<a href="https://linkedin.com/in/nirvan-m-4a44802ab"><img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:nirvanm67@gmail.com"><img src="https://img.shields.io/badge/EMAIL-nirvanm67@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://linkedin.com/in/nirvan-m-4a44802ab"><img src="btn-linkedin.svg" alt="LinkedIn" height="56"/></a>&nbsp;&nbsp;
+<a href="mailto:nirvanm67@gmail.com"><img src="btn-email.svg" alt="Email" height="56"/></a></a>
 
 </div>
 
